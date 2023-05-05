@@ -1,1 +1,1 @@
-# SPIRAL_A_Smart_Health_Care
+# Medical Project
